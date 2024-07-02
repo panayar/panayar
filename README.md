@@ -6,16 +6,10 @@
 
 
 ## Crafting Code with Creativity 🎨
-"I'm a software engineer who enjoys working where design and development meet. I have a passion for frontend work and have built smooth interfaces using React, Angular, and various JavaScript libraries. On the backend, I've created reliable solutions with Java and Python, using frameworks like Spring Boot and Django.
+I'm a software engineer who enjoys working where design and development meet. I have a passion for frontend work and have built smooth interfaces using React, Angular, and various JavaScript libraries. On the backend, I've created reliable solutions with Java and Python, using frameworks like Spring Boot and Django.
 
 ### What I Do:
 - **Frontend**: React, Angular, JavaScript, HTML, CSS
 - **Backend**: Java, Spring Boot, Python, Django
 - **Design**: Figma, Sketch, Adobe XD
-
-### Let's Connect:
-- **Explore My Work**: [Project Portfolio](#)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Connect on LinkedIn](#)
-- **Twitter**: [@yourhandle](#)
 
